@@ -1,0 +1,31 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 05-09-2013 09:45:51 --> Severity: Notice  --> Undefined index: access_token /workspace/sam-api/mvc/controllers/v1/i.php 176
+ERROR - 05-09-2013 10:04:35 --> Severity: Notice  --> Undefined index: access_token /workspace/sam-api/mvc/controllers/v1/i.php 176
+ERROR - 05-09-2013 10:05:02 --> Severity: Notice  --> Undefined index: access_token /workspace/sam-api/mvc/controllers/v1/i.php 176
+ERROR - 05-09-2013 10:11:05 --> Severity: Notice  --> Undefined index: access_token /workspace/sam-api/mvc/controllers/v1/i.php 176
+ERROR - 05-09-2013 10:18:35 --> Severity: Notice  --> Undefined index: access_token /workspace/sam-api/mvc/controllers/v1/i.php 176
+ERROR - 05-09-2013 10:18:45 --> Severity: Notice  --> Undefined index: access_token /workspace/sam-api/mvc/controllers/v1/i.php 176
+ERROR - 05-09-2013 10:20:11 --> Severity: Notice  --> Undefined index: access_token /workspace/sam-api/mvc/controllers/v1/i.php 176
+ERROR - 05-09-2013 10:33:13 --> Severity: Notice  --> Undefined index: access_token /workspace/sam-api/mvc/controllers/v1/i.php 176
+ERROR - 05-09-2013 10:33:56 --> Severity: Notice  --> Undefined index: access_token /workspace/sam-api/mvc/controllers/v1/i.php 176
+ERROR - 05-09-2013 10:34:51 --> Severity: Notice  --> Undefined index: access_token /workspace/sam-api/mvc/controllers/v1/i.php 176
+ERROR - 05-09-2013 10:35:00 --> Severity: Notice  --> Undefined index: access_token /workspace/sam-api/mvc/controllers/v1/i.php 176
+ERROR - 05-09-2013 10:35:09 --> Severity: Notice  --> Undefined index: access_token /workspace/sam-api/mvc/controllers/v1/i.php 176
+ERROR - 05-09-2013 10:35:31 --> Severity: Notice  --> Undefined index: access_token /workspace/sam-api/mvc/controllers/v1/i.php 176
+ERROR - 05-09-2013 10:36:23 --> Severity: Notice  --> Undefined index: access_token /workspace/sam-api/mvc/controllers/v1/i.php 176
+ERROR - 05-09-2013 11:48:28 --> Severity: Notice  --> Undefined index: access_token /workspace/sam-api/mvc/controllers/v1/i.php 176
+ERROR - 05-09-2013 11:48:44 --> Severity: Notice  --> Undefined index: access_token /workspace/sam-api/mvc/controllers/v1/i.php 176
+ERROR - 05-09-2013 11:49:44 --> Severity: Notice  --> Undefined index: access_token /workspace/sam-api/mvc/controllers/v1/i.php 176
+ERROR - 05-09-2013 11:51:02 --> Severity: Notice  --> Undefined index: access_token /workspace/sam-api/mvc/controllers/v1/i.php 176
+ERROR - 05-09-2013 11:53:48 --> Severity: Notice  --> Undefined index: access_token /workspace/sam-api/mvc/controllers/v1/i.php 176
+ERROR - 05-09-2013 11:54:35 --> Severity: Notice  --> Undefined index: access_token /workspace/sam-api/mvc/controllers/v1/i.php 176
+ERROR - 05-09-2013 11:54:55 --> Severity: Notice  --> Undefined index: access_token /workspace/sam-api/mvc/controllers/v1/i.php 176
+ERROR - 05-09-2013 12:06:12 --> Severity: Notice  --> Undefined index: access_token /workspace/sam-api/mvc/controllers/v1/i.php 176
+ERROR - 05-09-2013 12:06:48 --> Severity: Notice  --> Undefined index: access_token /workspace/sam-api/mvc/controllers/v1/i.php 176
+ERROR - 05-09-2013 12:08:03 --> Severity: Notice  --> Undefined index: access_token /workspace/sam-api/mvc/controllers/v1/i.php 176
+ERROR - 05-09-2013 12:21:28 --> Severity: Notice  --> Undefined index: access_token /workspace/sam-api/mvc/controllers/v1/i.php 176
+ERROR - 05-09-2013 12:21:55 --> Severity: Notice  --> Undefined index: access_token /workspace/sam-api/mvc/controllers/v1/i.php 176
+ERROR - 05-09-2013 12:30:33 --> Severity: Notice  --> Undefined index: access_token /workspace/sam-api/mvc/controllers/v1/i.php 176
+ERROR - 05-09-2013 12:30:52 --> Severity: Notice  --> Undefined index: access_token /workspace/sam-api/mvc/controllers/v1/i.php 176
+ERROR - 05-09-2013 12:31:10 --> Severity: Notice  --> Undefined index: access_token /workspace/sam-api/mvc/controllers/v1/i.php 176
